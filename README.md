@@ -4,4 +4,5 @@
 2021-09-16
 
 * Uzdevums
-* Mans mind map par WEB programmēšanu
+ Mans mind map par WEB programmēšanu
+ Un jāpievieno failus
