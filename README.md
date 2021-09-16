@@ -6,4 +6,4 @@
 * Uzdevums
  Mans mind map par WEB programmēšanu
  
- Un jāpievieno failus
+* Un jāpievieno failus
